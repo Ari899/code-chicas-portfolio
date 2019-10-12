@@ -1,0 +1,12 @@
+h1 {
+    font-size: 180px;
+    color: RGB(40,223,215); 
+    font-family: 'Saira Extra Condensed', sans-serif;
+} 
+.container { 
+    padding-right: 15px;
+     padding-left: 15px;
+     margin-right: auto;
+     margin-left: auto;
+    }
+    
