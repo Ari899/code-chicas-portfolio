@@ -1,12 +1,40 @@
 h1 {
     font-size: 180px;
-    color: RGB(40,223,215); 
+    color: RGB(20, 136, 131); 
     font-family: 'Saira Extra Condensed', sans-serif;
+    margin: 20px;
+    
 } 
+h2 {
+    font-size: 30px;
+    color: RGB(20, 136, 131);
+    font-family: 'Saira Extra Condensed', sans-serif;
+    margin: 20px;
+}
+body {
+    background-color: RGB(227, 249, 248);
+}
+div {
+    margin: 15px;
+    color: RGB(20, 136, 131);
+}
 .container { 
     padding-right: 15px;
      padding-left: 15px;
      margin-right: auto;
      margin-left: auto;
     }
+
+    .display-none {
+        display: none
+
+    }
+    .button {
+        margin: 10px;
+        border-radius: 3px; 
+    }
+     button:hover {
+         background-color: RGB(176, 246, 243);
+         color: black;
+     }
     
