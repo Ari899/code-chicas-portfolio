@@ -14,15 +14,7 @@ h2 {
     margin: 10px; 
     color: white;
 }
-.x-score {
-    border: 3px solid white;
-    font-size: 20px;
-}
-    
-.y-socre {
-    border: 3px solid white;
-    font-size: 20px;
-}
+
 
 .flex-container {
     display: flex;
